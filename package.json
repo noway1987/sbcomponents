@@ -1,0 +1,13 @@
+{
+    "name": "sbcomponents",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "storybook": "start-storybook -p 6006",
+        "build-storybook": "build-storybook"
+    },
+    "devDependencies": {
+        "chromatic": "^11.19.0"
+    }
+}
