@@ -7,5 +7,5 @@ export default {
   component: Button,
 };
 
-export const Primary = () => <Button label="Primary Button" />;
+export const Primary = () => <Button label="Primaerer Button" />;
 export const Secondary = () => <Button label="Secondary Button" />;
